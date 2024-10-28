@@ -77,3 +77,4 @@
 [submodule "PAHM-interface/PAHM"]
   path = PAHM-interface/PAHM
   url = https://github.com/noaa-ocs-modeling/PaHM
+  branch = main
