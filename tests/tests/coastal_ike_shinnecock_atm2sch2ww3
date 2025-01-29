@@ -14,11 +14,26 @@ export LIST_FILES="outputs/schout_000000_1.nc \
                    outputs/schout_000001_2.nc \
                    outputs/schout_000002_1.nc \
                    outputs/schout_000002_2.nc \
+                   outputs/schout_000003_1.nc \
+                   outputs/schout_000003_2.nc \
+                   outputs/schout_000004_1.nc \
+                   outputs/schout_000004_2.nc \
+                   outputs/schout_000005_1.nc \
+                   outputs/schout_000005_2.nc \
+                   outputs/schout_000006_1.nc \
+                   outputs/schout_000006_2.nc \
+                   outputs/schout_000007_1.nc \
+                   outputs/schout_000007_2.nc \
                    20080824.000000.out_grd.ww3.nc \
                    20080825.000000.out_grd.ww3.nc \
                    20080826.000000.out_grd.ww3.nc \
                    20080827.000000.out_grd.ww3.nc \
                    20080828.000000.out_grd.ww3.nc \
+                   ufs.cpld.ww3.r.2008-08-24-00000.nc \
+                   ufs.cpld.ww3.r.2008-08-25-00000.nc \
+                   ufs.cpld.ww3.r.2008-08-26-00000.nc \
+                   ufs.cpld.ww3.r.2008-08-27-00000.nc \
+                   ufs.cpld.ww3.r.2008-08-28-00000.nc \
                    ufs.cpld.cpl.hi.2008-08-24-00000.nc \
                    ufs.cpld.cpl.hi.2008-08-25-00000.nc \
                    ufs.cpld.cpl.hi.2008-08-26-00000.nc \
