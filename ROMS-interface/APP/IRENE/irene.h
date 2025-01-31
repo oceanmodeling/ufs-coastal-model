@@ -44,7 +44,7 @@
 
 #define AVERAGES           /* time-averaged output data */
 #define OUT_DOUBLE         /* double precision output */
-#define VERIFICATION       /* extract values at observations locations */
+/*#define VERIFICATION*/       /* extract values at observations locations */
 
 /* Surface and bottom boundary conditions */
 
