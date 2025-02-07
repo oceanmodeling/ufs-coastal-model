@@ -16,8 +16,8 @@
   branch = feature/coastal_app
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
-  url = https://github.com/oceanmodeling/CMEPS
-  branch = feature/coastalapp
+  url = https://github.com/SmithJos13/CMEPS.git
+  branch = feature/cmeps_cice_development
 [submodule "HYCOM"]
   path = HYCOM-interface/HYCOM
   url = https://github.com/NOAA-EMC/HYCOM-src
@@ -28,12 +28,12 @@
   branch = dev/emc
 [submodule "CICE"]
   path = CICE-interface/CICE
-  url = https://github.com/NOAA-EMC/CICE
-  branch = develop
+  url = https://github.com/SmithJos13/CICE.git
+  branch = feature/cice_development
 [submodule "CDEPS"]
   path = CDEPS-interface/CDEPS
-  url = https://github.com/oceanmodeling/CDEPS
-  branch = feature/coastalapp
+  url =  https://github.com/SmithJos13/CDEPS.git 
+  branch = feature/cice_cdeps_dev
 [submodule "GOCART"]
   path = GOCART
   url = https://github.com/GEOS-ESM/GOCART
